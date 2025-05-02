@@ -1,6 +1,6 @@
-# 📘 Exercícios – Lista 1 do Bootcamp Fullstack (+praTi)
+# 📘 Exercícios – Lista 1 do Curso Fullstack (+praTi)
 
-Este repositório contém os códigos desenvolvidos como parte da **primeira lista de exercícios do Bootcamp Fullstack**, oferecido pela **instituição +praTi**.  
+Este repositório contém os códigos desenvolvidos como parte da **primeira lista de exercícios do Curso Fullstack**, oferecido pela **instituição +praTi**.  
 Os exercícios foram implementados em **JavaScript** e executados via **Node.js** no terminal.
 
 ---
